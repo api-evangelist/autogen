@@ -1,5 +1,6 @@
 aid: autogen
 name: AutoGen
+x-parent: microsoft
 description: >-
   AutoGen is a Microsoft framework for building multi-agent conversational AI systems.
 type: Index
